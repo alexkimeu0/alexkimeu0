@@ -6,12 +6,9 @@
 ---
 
 ##### Skills:
-###### HTML5, CSS3, Bootstrap
-###### JavaScript
-###### React, Redux
-###### Node Js, Express
-###### Mongo DB, MySQL
-###### Django, Laravel
+###### HTML5, CSS3, Bootstrap, JavaScript
+###### React, Redux, Node Js, Express,
+###### Django, Laravel, Mongo DB, MySQL
 ###### JSON, APIs
 ---
 

@@ -8,10 +8,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a MERN project
 - 🌱 I’m currently learning on FreeCodeCamp.org
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: kimeualexis@gmail.com
-- 😄 Pronouns: Ambitious
+-->
+- 📫 Email: kimeualexis@gmail.com
+- 😄 Who am I: Ambitious, limitless learner.
 - ⚡ Fun fact: In love with JavaScript. It's !mutual;)
 

@@ -2,7 +2,7 @@
 
 ### I'm Alex Kimeu...
 #### Full-Stack Web Developer 💻
-#### Limitless learner 📖
+###### Limitless learner 📖
 ---
 
 ##### Skills:

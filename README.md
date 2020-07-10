@@ -1,15 +1,26 @@
-### Hi there 👋
+## Hi there... 👋
 
-<!--
-**alexkimeu0/alexkimeu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![alt text](https://pbs.twimg.com/profile_images/1278987379060195328/XAP8TklK_400x400.jpg "Profile Picture")
 
-In a Nutshell:
-- 😄 Who am I: Ambitious, limitless learner.
-- 📫 Email: kimeualexis@gmail.com
-- 🌱 I’m currently learning on FreeCodeCamp.org
-- 🔭 I’m currently working on a MERN project
+### I'm Alex Kimeu...
+#### Full-Stack Web Developer 💻
+#### Limitless learner 📖
+---
 
+##### Skills:
+###### HTML5, CSS3, Bootstrap
+###### JavaScript
+###### React, Redux
+###### Node Js, Express
+###### Mongo DB, MySQL
+###### Django, Laravel
+###### JSON, APIs
+---
 
-- ⚡ Fun fact: In love with JavaScript. It's !mutual;)
+###### Contact me:
+[Twitter](https://twitter.com/alexkimeu0)
+[Medium](https://medium.com/@alexkimeu0)
+[LinkedIn](https://www.linkedin.com/in/alexkimeu0/)
+---
 
+In ❤️ with JavaScript. It's !mutual😉.

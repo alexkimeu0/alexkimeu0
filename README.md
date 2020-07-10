@@ -1,7 +1,5 @@
 ## Hi there... 👋
 
-![alt text](https://pbs.twimg.com/profile_images/1278987379060195328/XAP8TklK_400x400.jpg "Profile Picture")
-
 ### I'm Alex Kimeu...
 #### Full-Stack Web Developer 💻
 #### Limitless learner 📖

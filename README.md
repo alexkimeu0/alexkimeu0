@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="https://pbs.twimg.com/profile_images/1278987379060195328/XAP8TklK_400x400.jpg" width="400"></p>
 
 ## Hello World... 👋
 

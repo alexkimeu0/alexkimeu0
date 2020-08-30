@@ -1,3 +1,7 @@
+<link
+			rel="stylesheet"
+			href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+		/>
 <p align="center"><img src="https://pbs.twimg.com/profile_banners/799886254468907008/1592416705/1500x500" width="100%"></p>
 <p align="center">
   <i class="fas fa-html"></i>

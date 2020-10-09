@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQHt_f74tx-hjw/profile-displaybackgroundimage-shrink_200_800/0?e=1605139200&v=beta&t=oULsJm3P_y9E2rTPf-8ul9aiy2T9Xa-au-tZBW5pmiw" width="100%"></p>
+<p align="center"><img src="https://pbs.twimg.com/profile_banners/799886254468907008/1602266816/1500x500 width="100%"></p>
 <p align="center">
   <i class="fas fa-html"></i>
 </p>

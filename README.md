@@ -3,10 +3,16 @@
   <i class="fas fa-html"></i>
 </p>
 
-## Hello World... 👋
+<h1 align="center">Yo, what's up ✌️, I'm Alex Kimeu</h1>
+<h3 align="center">Software Developer | Blogger</h3>
+<h3 align="center">Limitless Learner</h3>
+<h3 align="center">Gamer</h3>
 
-### I'm Alex Kimeu...
-#### SOFTWARE DEVELOPER 💻
+<br/>
+
+**_My job revolves around Web Development & Quality Assurance_**
+
+- 👨‍💻 **_Check out my repos to view some of my work_** 👨‍💻
 
 
 

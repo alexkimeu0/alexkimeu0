@@ -14,13 +14,10 @@
 <h4 align="center"> 👨‍💻 **_Check out my repos to view some of my work_** 👨‍💻</h4>
 
 
-<h5 align="center">
-##### Skills:
-###### HTML5, CSS3, Bootstrap, JavaScript
-###### React, Redux, Node Js, Express,  
-###### Python, Django, Laravel, 
-###### MySQL, Mongo DB, Firebase,
-###### JSON, AJAX, APIs, Git, Github  
+<h5 align="center">HTML5, CSS3, Bootstrap, JavaScript</h5>
+<h5 align="center">React, Redux, Node Js, Express</h5> 
+<h5 align="center">Python, Django, Laravel</h5> 
+<h5 align="center">MySQL, Mongo DB, Firebase</h5>
+<h5 align="center">JSON, AJAX, APIs, Git, Github</h5>  
 
-In ❤️ with JavaScript. It's !mutual😉.
-</h5>
+<h6 align="center">***In ❤️ with JavaScript. It's !mutual😉.***</h6>

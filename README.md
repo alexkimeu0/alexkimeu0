@@ -10,12 +10,11 @@
 
 <br/>
 
-**_My job revolves around Web Development & Quality Assurance_**
 
-- 👨‍💻 **_Check out my repos to view some of my work_** 👨‍💻
-
+<h4 align="center"> 👨‍💻 **_Check out my repos to view some of my work_** 👨‍💻</h4>
 
 
+<h5 align="center">
 ##### Skills:
 ###### HTML5, CSS3, Bootstrap, JavaScript
 ###### React, Redux, Node Js, Express,  
@@ -24,3 +23,4 @@
 ###### JSON, AJAX, APIs, Git, Github  
 
 In ❤️ with JavaScript. It's !mutual😉.
+</h5>

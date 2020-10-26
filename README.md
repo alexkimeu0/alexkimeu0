@@ -8,7 +8,7 @@
 <h3 align="center">Limitless Learner</h3>
 <h3 align="center">Gamer</h3>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexkimeu)](https://github.com/alexkimeu0/github-readme-stats)
+[![Alex Kimeu's github stats](https://github-readme-stats.vercel.app/api?username=alexkimeu0)](https://github.com/alexkimeu0/github-readme-stats)
 
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/729e3d06e8f14f85712233069f9ea559294ef942/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d7563686972696a616e652673686f775f69636f6e733d74727565267468656d653d6e696768746f776c"><img src="https://camo.githubusercontent.com/729e3d06e8f14f85712233069f9ea559294ef942/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d7563686972696a616e652673686f775f69636f6e733d74727565267468656d653d6e696768746f776c" alt="Alex Kimeu's GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=alexkimeu0&amp;show_icons=true&amp;theme=nightowl" style="max-width:100%;"></a></p>

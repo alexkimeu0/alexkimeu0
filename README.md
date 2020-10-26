@@ -13,17 +13,18 @@
 
 
 <h4>Tech Stack</h4>
-<div>
-  <table>
+<table>
 <thead>
 <tr>
-<th>𝗛𝗧𝗠𝗟5</th>
-<th>𝗖𝗦𝗦3</th>
-<th>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</th>
-<th>𝗕𝗢𝗢𝗦𝗧𝗥𝗔𝗣</th>
-<th>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</th>
-<th>𝗻𝗽𝗺</th>
-<th>𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧</th>
+<th>MONGO DB</th>
+<th>EXPRESS</th>
+<th>REACT</th>
+<th>NODE</th>
+<th>FIREBASE</th>
+<th>MATERIAL UI</th>  
+<th>NPM</th>
+<th>JAVASCRIPT</th>
+<th>LARAVEL</th>  
 </tr>
 </thead>
 <tbody>

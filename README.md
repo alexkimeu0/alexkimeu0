@@ -30,7 +30,7 @@
 <tbody>
 <tr>
   
-<td><a style="display: flex; justify-content: center; align-items: center; text-align: center;" target="_blank" rel="noopener noreferrer" href="https://media.glassdoor.com/sql/433703/mongodb-squarelogo-1564695792753.png"><img height="30px" src="https://media.glassdoor.com/sql/433703/mongodb-squarelogo-1564695792753.png" data-canonical-src="https://cdn.svgporn.com/logos/html-5.svg" style="max-width:100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://media.glassdoor.com/sql/433703/mongodb-squarelogo-1564695792753.png"><img height="30px" src="https://media.glassdoor.com/sql/433703/mongodb-squarelogo-1564695792753.png" style="display: flex; justify-content: center; align-items: center; text-align: center;" data-canonical-src="https://cdn.svgporn.com/logos/html-5.svg" style="max-width:100%;"></a></td>
 
 
 <td style="display: flex; justify-content: center; align-items: center;"><a target="_blank" rel="noopener noreferrer" href="https://i.morioh.com/8c8203b86e.png"><img height="35px" src="https://i.morioh.com/8c8203b86e.png" data-canonical-src="https://cdn.svgporn.com/logos/css-3.svg" style="max-width:100%;"></a></td>

@@ -8,7 +8,7 @@
 <h3 align="center">Limitless Learner</h3>
 <h3 align="center">Gamer</h3>
 
-[![Alex Kimeu's github stats](https://github-readme-stats.vercel.app/api?username=alexkimeu0)](https://github.com/alexkimeu0/github-readme-stats)
+[![Alex Kimeu's github stats](https://github-readme-stats.vercel.app/api/?username=alexkimeu0&count_private=true&show_icons=true&theme=cobalt)](https://github.com/alexkimeu0/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkimeu0)](https://github.com/alexkimeu0/github-readme-stats)

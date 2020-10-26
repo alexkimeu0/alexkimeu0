@@ -65,10 +65,12 @@
 <table>
 <thead>
 <tr>
-<th>𝗚𝗜𝗧</th>
-<th>𝗩𝗦 𝗖𝗼𝗱𝗲</th>
-<th>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</th>
-<th>𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟</th>
+<th>Git</th>
+<th>Vs Code</th>
+<th>Netlify</th>
+<th>Terminal</th>
+<th>PyCharm</th>
+<th>PHP Storm</th>
 </tr>
 </thead>
 <tbody>
@@ -81,6 +83,10 @@
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3596548ba6ba52d0a41e216323dd9d78412f9db9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e65746c6966792e737667"><img height="50px" width="100%" src="https://camo.githubusercontent.com/3596548ba6ba52d0a41e216323dd9d78412f9db9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e65746c6966792e737667" data-canonical-src="https://cdn.svgporn.com/logos/netlify.svg" style="max-width:100%;"></a></td>
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667" data-canonical-src="https://cdn.svgporn.com/logos/terminal.svg" style="max-width:100%;"></a></td>
+
+<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1200px-PyCharm_Logo.svg.png" data-canonical-src="https://cdn.svgporn.com/logos/terminal.svg" style="max-width:100%;"></a></td>
+
+<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://www.quanta.org/free-phpstorm-licence/free-phpstorm-licence/phpstorm-logo.png" data-canonical-src="https://cdn.svgporn.com/logos/terminal.svg" style="max-width:100%;"></a></td>
 
 </tr>
 </tbody>

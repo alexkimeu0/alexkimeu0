@@ -48,7 +48,7 @@
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://material-ui.com/static/logo_raw.svg"><img height="30px" src="https://material-ui.com/static/logo_raw.svg" data-canonical-src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" style="max-width:100%;"></a></td>
 
-<td><a target="_blank" rel="noopener noreferrer" href="https://material-ui.com/static/logo_raw.svg"><img height="30px" src="https://material-ui.com/static/logo_raw.svg" data-canonical-src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" style="max-width:100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a2a5e429e6c4896eb02161f0c7162989f012ded4/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e706d2e737667"><img height="30px" src="https://camo.githubusercontent.com/a2a5e429e6c4896eb02161f0c7162989f012ded4/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e706d2e737667" data-canonical-src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" style="max-width:100%;"></a></td>
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1beeb3d21bd0b20daeae02856eaf2b301846fb07/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176617363726970742e737667"><img height="30px" src="https://camo.githubusercontent.com/1beeb3d21bd0b20daeae02856eaf2b301846fb07/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176617363726970742e737667" data-canonical-src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" style="max-width:100%;"></a></td>
 

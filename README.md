@@ -52,7 +52,7 @@
 <td><a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" data-canonical-src="https://cdn.svgporn.com/logos/npm.svg" style="max-width:100%;"></a></td>
 
 
-<td><a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png"><img height="30px" src="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png" data-canonical-src="https://cdn.svgporn.com/logos/javascript.svg" style="max-width:100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png"><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png" data-canonical-src="https://cdn.svgporn.com/logos/javascript.svg" style="max-width:100%;"></a></td>
 
 
 </tr>

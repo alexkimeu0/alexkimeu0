@@ -25,7 +25,6 @@
 <th>NPM</th>
 <th>JAVASCRIPT</th>
 <th>PYTHON</th>  
-<th>DJANGO</th>  
 <th>LARAVEL</th>  
 </tr>
 </thead>

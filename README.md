@@ -7,10 +7,9 @@
 <h3 align="center">Software Developer | Blogger</h3>
 <h3 align="center">Limitless Learner</h3>
 <h3 align="center">Gamer</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=alexkimeu0&count_private=true&show_icons=true&theme=cobalt" />
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkimeu0&how_icons=true&theme=darcula" />
+<div style="display: flex;">
+<img src="https://github-readme-stats.vercel.app/api/?username=alexkimeu0&count_private=true&show_icons=true&theme=cobalt" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkimeu0&how_icons=true&theme=darcula" />
 </div>
 
 

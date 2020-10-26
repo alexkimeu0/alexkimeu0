@@ -37,7 +37,7 @@
 <td><a target="_blank" rel="noopener noreferrer" href="https://i.morioh.com/8c8203b86e.png"><img height="35px" src="https://i.morioh.com/8c8203b86e.png" data-canonical-src="https://cdn.svgporn.com/logos/css-3.svg" style="max-width:100%;"></a></td>
 
 
-<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/21a9e6f9bdaf1bbe47706acfe4c2889b7085de22/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f736173732e737667"><img height="30px" src="https://camo.githubusercontent.com/21a9e6f9bdaf1bbe47706acfe4c2889b7085de22/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f736173732e737667" data-canonical-src="https://cdn.svgporn.com/logos/sass.svg" style="max-width:100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://miro.medium.com/max/700/1*YePVzjkjsadOqzQ03wl5kA.png"><img height="30px" src="https://miro.medium.com/max/700/1*YePVzjkjsadOqzQ03wl5kA.png" data-canonical-src="https://cdn.svgporn.com/logos/sass.svg" style="max-width:100%;"></a></td>
 
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b315304d2c6f42c40ba107ab2e537d3621802f0c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f626f6f7473747261702e737667"><img height="30px" src="https://camo.githubusercontent.com/b315304d2c6f42c40ba107ab2e537d3621802f0c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f626f6f7473747261702e737667" data-canonical-src="https://cdn.svgporn.com/logos/bootstrap.svg" style="max-width:100%;"></a></td>

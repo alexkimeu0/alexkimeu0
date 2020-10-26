@@ -3,9 +3,8 @@
 </p>
 
 <h1 align="center">Yo, what's up ✌️, I'm Alex Kimeu</h1>
-<h3 align="center">Software Developer | Blogger</h3>
+<h3 align="center">Software Developer | Blogger | Gamer</h3>
 <h3 align="center">Limitless Learner</h3>
-<h3 align="center">Gamer</h3>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/?username=alexkimeu0&count_private=true&show_icons=true&theme=cobalt" style="height: 500px;" />
 </div>
@@ -83,5 +82,3 @@
 </table>
 
 </div>
-
-***<h6 align="center">In ❤️ with JavaScript. It's !mutual😉.</h6>***

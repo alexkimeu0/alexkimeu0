@@ -51,7 +51,7 @@
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1beeb3d21bd0b20daeae02856eaf2b301846fb07/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176617363726970742e737667"><img height="50px" width="100%" src="https://camo.githubusercontent.com/1beeb3d21bd0b20daeae02856eaf2b301846fb07/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176617363726970742e737667" data-canonical-src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" style="max-width:100%;"></a></td>
 
-<td><a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"><img height="50px" width="100%" src="https://miro.medium.com/max/700/1*6Dhu1H4t028lOGbaZuyRCw.png" data-canonical-src="https://cdn.svgporn.com/logos/npm.svg" style="max-width:100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"><img height="50px" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" data-canonical-src="https://cdn.svgporn.com/logos/npm.svg" style="max-width:100%;"></a></td>
 
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png"><img height="50px" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png" data-canonical-src="https://cdn.svgporn.com/logos/javascript.svg" style="max-width:100%;"></a></td>
@@ -69,7 +69,6 @@
 <th>Vs Code</th>
 <th>Netlify</th>
 <th>Terminal</th>
-<th>PyCharm</th>
 <th>PHP Storm</th>
 </tr>
 </thead>
@@ -83,8 +82,6 @@
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3596548ba6ba52d0a41e216323dd9d78412f9db9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e65746c6966792e737667"><img height="50px" width="100%" src="https://camo.githubusercontent.com/3596548ba6ba52d0a41e216323dd9d78412f9db9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e65746c6966792e737667" data-canonical-src="https://cdn.svgporn.com/logos/netlify.svg" style="max-width:100%;"></a></td>
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667" data-canonical-src="https://cdn.svgporn.com/logos/terminal.svg" style="max-width:100%;"></a></td>
-
-<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" data-canonical-src="https://cdn.svgporn.com/logos/terminal.svg" style="max-width:100%;"></a></td>
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/PhpStorm_Logo.svg" style="max-width:100%;"></a></td>
 

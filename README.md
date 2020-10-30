@@ -1,4 +1,4 @@
-<div style="border: 1px solid lightgray; border-radius: 2rem; padding: 1rem !important">
+<div style="border: px solid lightgray; border-radius: 2rem; padding: 1rem !important">
 <p align="center">
   <i class="fas fa-html"></i>
 </p>

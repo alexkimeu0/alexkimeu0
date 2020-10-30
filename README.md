@@ -1,3 +1,4 @@
+<div style="baorder: 1px solid lightgray; border-radius: 2rem; padding-top: 1rem !important">
 <p align="center">
   <i class="fas fa-html"></i>
 </p>
@@ -89,4 +90,5 @@
 </tbody>
 </table>
 
+</div>
 </div>

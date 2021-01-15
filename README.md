@@ -72,6 +72,8 @@
 <th>Netlify</th>
 <th>Terminal</th>
 <th>PHP Storm</th>
+<th>Intellij Idea</th>
+<th>Android Studio</th>  
 </tr>
 </thead>
 <tbody>

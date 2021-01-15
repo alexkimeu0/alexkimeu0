@@ -91,7 +91,7 @@
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" style="max-width:100%;"></a></td>
 
-<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" style="width: 100px;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" style="max-width: 100%;"></a></td>
 
 </tr>
 </tbody>

@@ -73,7 +73,6 @@
 <th>Terminal</th>
 <th>PHP Storm</th>
 <th>Intellij Idea</th>
-<th>Android Studio</th>  
 </tr>
 </thead>
 <tbody>
@@ -90,8 +89,6 @@
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/PhpStorm_Logo.svg" style="max-width:100%;"></a></td>
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" style="max-width:100%;"></a></td>
-
-<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" style="max-width: 100%;"></a></td>
 
 </tr>
 </tbody>

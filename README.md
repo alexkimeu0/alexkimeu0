@@ -24,6 +24,7 @@
 <th>JAVASCRIPT</th>
 <th>PYTHON</th>  
 <th>LARAVEL</th>  
+<th>Java</th> 
 </tr>
 </thead>
 <tbody>
@@ -54,6 +55,8 @@
 
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png"><img height="50px" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png" data-canonical-src="https://cdn.svgporn.com/logos/javascript.svg" style="max-width:100%;"></a></td>
+
+<td><a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png"><img height="50px" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png" data-canonical-src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png" style="max-width:100%;"></a></td>
 
 
 </tr>

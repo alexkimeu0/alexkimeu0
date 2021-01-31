@@ -3,7 +3,7 @@
   <i class="fas fa-html"></i>
 </p>
 
-<h1 align="center">Hello World ✌️, I'm Alex Kimeu</h1>
+<h1 align="center">Hello World ✌️ I'm Alex Kimeu</h1>
 <h3 align="center">Software Developer</h3>
 
 <div align="center">

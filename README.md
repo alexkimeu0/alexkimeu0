@@ -66,18 +66,24 @@
 <table>
 <thead>
 <tr>
-<th>Git</th>
+
 <th>Vs Code</th>
-<th>Netlify</th>
-<th>Terminal</th>
 <th>PHP Storm</th>
 <th>Intellij Idea</th>
+<th>Terminal</th>
+<th>Git</th>
+<th>Netlify</th>
 </tr>
 </thead>
 <tbody>
 <tr>
   
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/16e0e29371391eee11534920fc26afe3b21ac795/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667"><img height="50px" width="100%" src="https://camo.githubusercontent.com/16e0e29371391eee11534920fc26afe3b21ac795/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667" data-canonical-src="https://cdn.svgporn.com/logos/git-icon.svg" style="max-width:100%;"></a></td>
+
+<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/PhpStorm_Logo.svg" style="max-width:100%;"></a></td>
+
+<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" style="max-width:100%;"></a></td>
+
   
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6bdf06db9f84d12599cdedc3007455513a1f03b4/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667"><img height="50px" width="100%" src="https://camo.githubusercontent.com/6bdf06db9f84d12599cdedc3007455513a1f03b4/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667" data-canonical-src="https://cdn.svgporn.com/logos/visual-studio-code.svg" style="max-width:100%;"></a></td>
 
@@ -85,9 +91,9 @@
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667" data-canonical-src="https://cdn.svgporn.com/logos/terminal.svg" style="max-width:100%;"></a></td>
 
-<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/PhpStorm_Logo.svg" style="max-width:100%;"></a></td>
 
-<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" style="max-width:100%;"></a></td>
+
+
 
 </tr>
 </tbody>

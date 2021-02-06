@@ -55,9 +55,6 @@
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png"><img height="50px" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png" data-canonical-src="https://cdn.svgporn.com/logos/javascript.svg" style="max-width:100%;"></a></td>
 
-<td><a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png"><img height="50px" width="100%" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png" data-canonical-src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png" style="max-width:100%;"></a></td>
-
-
 </tr>
 </tbody>
 </table> 
@@ -81,7 +78,6 @@
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6bdf06db9f84d12599cdedc3007455513a1f03b4/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667"><img height="50px" width="100%" src="https://camo.githubusercontent.com/6bdf06db9f84d12599cdedc3007455513a1f03b4/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667" data-canonical-src="https://cdn.svgporn.com/logos/visual-studio-code.svg" style="max-width:100%;"></a></td>
 
 
-<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/16e0e29371391eee11534920fc26afe3b21ac795/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667"><img height="50px" width="100%" src="https://camo.githubusercontent.com/16e0e29371391eee11534920fc26afe3b21ac795/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667" data-canonical-src="https://cdn.svgporn.com/logos/git-icon.svg" style="max-width:100%;"></a></td>
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/538f4241b5bed4cfa3f8a1fbc68a6b15fbda3f8c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7465726d696e616c2e737667"><img height="50px" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/PhpStorm_Logo.svg" style="max-width:100%;"></a></td>
 
@@ -93,6 +89,8 @@
 
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3596548ba6ba52d0a41e216323dd9d78412f9db9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e65746c6966792e737667"><img height="50px" width="100%" src="https://camo.githubusercontent.com/3596548ba6ba52d0a41e216323dd9d78412f9db9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e65746c6966792e737667" data-canonical-src="https://cdn.svgporn.com/logos/netlify.svg" style="max-width:100%;"></a></td>
+
+<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/16e0e29371391eee11534920fc26afe3b21ac795/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667"><img height="50px" width="100%" src="https://camo.githubusercontent.com/16e0e29371391eee11534920fc26afe3b21ac795/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667" data-canonical-src="https://cdn.svgporn.com/logos/git-icon.svg" style="max-width:100%;"></a></td>
 
 
 <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3596548ba6ba52d0a41e216323dd9d78412f9db9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e65746c6966792e737667"><img height="50px" width="100%" src="https://camo.githubusercontent.com/3596548ba6ba52d0a41e216323dd9d78412f9db9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e65746c6966792e737667" data-canonical-src="https://cdn.svgporn.com/logos/netlify.svg" style="max-width:100%;"></a></td>
